@@ -1,0 +1,27 @@
+# Firebase credentials
+firebase_key.json
+
+# Joblib model files
+*.joblib
+*.pkl
+
+# OS files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
