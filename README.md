@@ -1,8 +1,6 @@
 🧠 Inventory Assistant – ML-Powered Decision Support System
 
 An AI-driven Inventory Assistant built using **Machine Learning (XGBoost)** and **Streamlit** to help retailers make smarter stock decisions by predicting product performance (STOCK / DON’T STOCK).
-## 🚀 Live Demo
-👉
 
 📌 Project Overview
 Inventory management decisions are often reactive and manual.  
