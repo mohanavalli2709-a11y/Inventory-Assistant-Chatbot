@@ -2,7 +2,7 @@
 
 An AI-driven Inventory Assistant built using **Machine Learning (XGBoost)** and **Streamlit** to help retailers make smarter stock decisions by predicting product performance (STOCK / DON’T STOCK).
 ## 🚀 Live Demo
-👉 https://inventory-assistant-1.streamlit.app/
+👉
 
 📌 Project Overview
 Inventory management decisions are often reactive and manual.  
